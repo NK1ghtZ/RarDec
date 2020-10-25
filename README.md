@@ -1,2 +1,4 @@
 # RarDec
-A Rar decompressor work in Bash command line
+
+## About
+A Rar decompressor working in Bash command line
